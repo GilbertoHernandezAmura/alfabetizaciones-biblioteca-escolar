@@ -35,7 +35,7 @@ const Navbar = () => {
               scrolled ? 'text-blue-900' : 'text-white'
             }`}
           >
-            ALFA<span className="text-blue-500">BE</span>
+            ALF<span className="text-blue-500">IN</span>
           </div>
         </a>
         <div className="hidden md:flex gap-8">

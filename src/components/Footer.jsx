@@ -4,7 +4,7 @@ const Footer = () => {
       <div className="max-w-6xl mx-auto text-center">
         <div className="mb-6">
           <div className="font-black text-xl tracking-tighter text-white mb-2 uppercase">
-            ALFA<span className="text-blue-500">BE</span>
+            ALF<span className="text-blue-500">IN</span>
           </div>
           <p className="text-sm max-w-md mx-auto">
             Hacia una integración ética y efectiva de la tecnología y la
